@@ -1,0 +1,14 @@
+D:\projects\web\MainWebApp\DomainLayer\bin\Debug\net6.0\DomainLayer.deps.json
+D:\projects\web\MainWebApp\DomainLayer\bin\Debug\net6.0\DomainLayer.runtimeconfig.json
+D:\projects\web\MainWebApp\DomainLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\projects\web\MainWebApp\DomainLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\projects\web\MainWebApp\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.AssemblyReference.cache
+D:\projects\web\MainWebApp\DomainLayer\obj\Debug\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\web\MainWebApp\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfoInputs.cache
+D:\projects\web\MainWebApp\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfo.cs
+D:\projects\web\MainWebApp\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\projects\web\MainWebApp\DomainLayer\obj\Debug\net6.0\DomainLayer.dll
+D:\projects\web\MainWebApp\DomainLayer\obj\Debug\net6.0\refint\DomainLayer.dll
+D:\projects\web\MainWebApp\DomainLayer\obj\Debug\net6.0\DomainLayer.pdb
+D:\projects\web\MainWebApp\DomainLayer\obj\Debug\net6.0\DomainLayer.genruntimeconfig.cache
+D:\projects\web\MainWebApp\DomainLayer\obj\Debug\net6.0\ref\DomainLayer.dll
